@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237697932021",
+    "firebase_url": "https://streambuilderbugproject.firebaseio.com",
+    "project_id": "streambuilderbugproject",
+    "storage_bucket": "streambuilderbugproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237697932021:android:28cd475f1eb569f59783bc",
+        "android_client_info": {
+          "package_name": "com.example.streambuilder_connectionstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237697932021-7jcoolebk58e20g7q22i4dapud9igkq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyOeKk0gepySN35mzoqqBcEfi4fItnW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237697932021-7jcoolebk58e20g7q22i4dapud9igkq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
